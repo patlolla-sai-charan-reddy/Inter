@@ -1,2 +1,0 @@
-# Inter
-Created with CodeSandbox
